@@ -1,0 +1,19 @@
+Per quanto riguarda la parte di acqusizione dati per una corretta visualizzazione l'ordine dei notebook è:
+
+1)Data acquisition statistiche : Notebook con scraping delle statistiche dal sito FIFA
+
+2)Data acquisition ranking : Notebook con scraping dei ranking dal sito FIFA
+
+3)Estrazione tweet: Notebook contenente acquisizione dei tweet
+
+4)Sentiment analysis: analisi dei sentimenti con textblob
+
+5)Data integration : preparazione dataset finale per analisi esplorativa
+
+6)analisi esplorative: Data analysis con profiling
+
+Per la parte di Visualizzazione dati è utile seguire le dashboard dal seguente link
+
+https://public.tableau.com/app/profile/giuseppe4109/viz/WorldCup2022SentimentAnalysis/WorldCup2022TwitterSentimentAnalysis?publish=yes
+
+"Report Data viz" riassume staticamente quanto riportato nelle dashboard interattive del link.
