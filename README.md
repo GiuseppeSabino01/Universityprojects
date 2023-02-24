@@ -1,7 +1,7 @@
 # Universityprojects
 ## Progetto Tesi
 
-Inside the "Progetto Tesi" folder you can find the report relating to the three-year thesis. It is a project referring to the comparison of some Machine Learning models, of which the best one, used to support an investment strategy
+You can find the report relating to the three-year thesis. It is a project referring to the comparison of some Machine Learning models, of which the best one, used to support an investment strategy
 
 ## World Cup 2022 Sentiment Analysis
 
