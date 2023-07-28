@@ -39,3 +39,4 @@ Additionally, we implemented a feature that allows users to input their personal
 We are incredibly proud of the outcome achieved in this project, which led us to secure the second place in the Knime challenge 2022. 
 This recognition confirmed the effectiveness and validity of our machine learning model, 
 showcasing our commitment to delivering innovative and accurate solutions in the field of healthcare and diabetes prediction.
+Furthermore, we have been given the opportunity to publish our paper on Medium. This opportunity has excited us greatly as Medium is a widely popular content sharing platform, allowing us to reach a broad audience of readers interested in the field of Data Science and diabetes prediction
