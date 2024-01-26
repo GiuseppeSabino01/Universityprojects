@@ -1,23 +1,39 @@
 # Universityprojects
 ## Progetto Tesi
 
-You can find the report relating to the three-year thesis. It is a project referring to the comparison of some Machine Learning models, of which the best one, used to support an investment strategy
+Artificial intelligence is increasingly evolving in all sectors of the modern world. Thanks to Machine Learning, many predictive analyses become simpler and more accurate. In this experiment, 6 Machine Learning algorithms (Arima, SVR, Linear Regression, KNN Regressor, Decision Tree Regressor, Random Forest Regressor) and 3 Deep Learning algorithms (ANN, GRU, LSTM) will be utilized for stock price prediction, comparing them and demonstrating that neural networks, particularly ANN in this case, are most suitable for complex tasks requiring extensive data. All of this aims to support an investment strategy, which proves to be advantageous but falls short of the predictions.
 
 ## World Cup 2022 Sentiment Analysis
 
-This project consists of two parts.
-The first concerns the entire data acquisition process:
+Football is undoubtedly one of the most widely followed sports worldwide, with millions of fans across all continents, representing a culturally significant phenomenon on a global scale. The 2022 Qatar World Cup marks a significant turning point in this sport. For the first time, a Middle Eastern country hosted the highest-level football competition, symbolizing the ongoing growth in this region.
 
-the statistics of each match of the World Cup played in Qatar in 2022, and the ranking of the teams in the moment immediately before and after it were obtained via scraping from the official fifa website. Furthermore, through a special library, the tweets for each game were acquired on which a sentiment analysis was then carried out to understand the thoughts of the users and what could have the most influence.
+Despite all the controversy surrounding the preparation of this sporting event, it is estimated that the World Cup final was watched by approximately 1.5 billion people. This figure contradicts the statements of some football experts in recent years, who argue that matches are becoming less interesting due to the technical imbalance between top-tier teams and emerging ones, leading to "boring" games. This perception has even prompted consideration of a revolution in the sport through the Super League project, primarily advocated by Florentino Perez, president of Real Madrid, who claims that young people between the ages of 14 and 24 are abandoning football because they find it boring compared to other forms of entertainment they prefer.
 
-The second part talks about visualizing this data, trying to answer the questions posed initially.
+The purpose of the project is to answer the question of what variables impact people's opinions. This will be achieved by comparing the key statistics of the 64 matches played in the 2022 Qatar World Cup with sentiment analysis of tweets related to these matches. The choice of Twitter is due to the fact that internationally, 75% of users are under 30 years old. To assess the technical level of national teams and verify its impact, the latest official team rankings as of October 6, 2022, have been considered.
+
+Data visualization plays a crucial role in this analysis, as it allows us to visually represent the events in an
+intuitive format. Through the use of various charts techniques, we aim to shed light on the performance of
+the teams, the mood of the fans, and the overall sentiment towards the event. By exploring the
+relationships between the various data points, we hope to uncover patterns and insights that would
+otherwise remain hidden.
+The results of our analysis provide a perspective on the World Cup and offer new insights into the
+tournament and its impact with the purpose of answering the following questions: how did people react to
+one of the most watched events in the world? Is there a relationship between match statistics and user
+sentiments?
 You have an interactive visualization by following the dashboards of the link below.
 
 https://public.tableau.com/app/profile/giuseppe4109/viz/WorldCup2022SentimentAnalysis/WorldCup2022TwitterSentimentAnalysis?publish=yes
 
 ## How data can affect Football
 
-It is a simple R markdown done to demonstrate how data analysis is an increasingly important element in any field. It was a first approach to the world of R for the Probability and statistics course, useful above all to be able to understand the relationships between variables
+Football is one of the most popular themes in Italy and in the world. Few people don’t have a
+favorite team or at least don’t sympathize for anyone. In recent years various technologies have
+been introduced in this sport,for example VAR and goal line technology. Furthermore, the use of
+data for the analysis of individual or team performances is increasingly developing, just think of
+the De Bruyne case, thanks to a team of data scientists managed to obtain an increase in his
+contract renewal. with this experiment I will try to give an input of what the data can show us
+about this sport. It will be used a dataset of the last 5 seasons in Serie A, it contains the dates of
+the matches, the results and many other in-game statistics
 
 ## Coco captioning
 In the context of the project, the Coco dataset, a large collection of annotated images, was used to address the captioning problem. Captioning involves providing a meaningful textual description for each image in the dataset. 
