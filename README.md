@@ -1,5 +1,5 @@
 # Universityprojects
-## Progetto Tesi
+## ML applied to financial business
 
 Artificial intelligence is increasingly evolving in all sectors of the modern world. Thanks to Machine Learning, many predictive analyses become simpler and more accurate. In this experiment, 6 Machine Learning algorithms (Arima, SVR, Linear Regression, KNN Regressor, Decision Tree Regressor, Random Forest Regressor) and 3 Deep Learning algorithms (ANN, GRU, LSTM) will be utilized for stock price prediction, comparing them and demonstrating that neural networks, particularly ANN in this case, are most suitable for complex tasks requiring extensive data. All of this aims to support an investment strategy, which proves to be advantageous but falls short of the predictions.
 
@@ -56,3 +56,14 @@ We are incredibly proud of the outcome achieved in this project, which led us to
 This recognition confirmed the effectiveness and validity of our machine learning model, 
 showcasing our commitment to delivering innovative and accurate solutions in the field of healthcare and diabetes prediction.
 Furthermore, we have been given the opportunity to publish our paper on Medium. This opportunity has excited us greatly as Medium is a widely popular content sharing platform, allowing us to reach a broad audience of readers interested in the field of Data Science and diabetes prediction
+
+## Study of the DBCV Statistical Metric for Internal Clustering in Unsupervised Machine Learning
+In this project, it is explored the efficacy of the DBCV (Density-Based Cluster Validity) metric in
+evaluating clustering outcomes, particularly in the context of density-based clustering methods like
+HDBSCAN. Through extensive comparison with other widely-used clustering validation metrics such
+as silhouette, Dunn, Davies-Bouldin, and Calinski-Harabasz, the DBCV metric demonstrated its sen-
+sitivity to variations in cluster density and separation. This characteristic makes DBCV particularly
+suitable for scenarios where cluster density plays a crucial role in determining clustering quality.
+Overall, the DBCV metric has proven to be a valuable tool in clustering analysis, offering a nuanced
+perspective that complements other validation methods. Its focus on density and cohesion provides
+insights that are particularly relevant in complex clustering scenarios where traditional metrics might fall short.
